@@ -1,5 +1,9 @@
 目前提供python和nodejs两种脚本
+python 版本  3.x 安装命令 pip install ecdsa cryptography
+nodejs 版本  v14.x 安装命令 npm install elliptic bn.js 
 
+
+测试数据
 public_key_base64 = "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEJlcomRTDuVVIEE/kxf9iwFLNHnigb44o26F7OczOT/jVZnCBtT6tVa3BzTHZpvMr/Hb8um7PBN1LaDhZPUW5EA=="
 seed = "9001062273548560654338|1778418819957"
 
