@@ -1,6 +1,7 @@
 # secp256k1 VRF Verify
 
 基于 secp256k1 椭圆曲线实现的 VRF（Verifiable Random Function，可验证随机函数）验证器。
+使用和测试数据请查看TestData.txt
 
 该实现用于验证：
 
