@@ -384,6 +384,7 @@ $$
 # 目前提供python和nodejs两种脚本
 
 python 版本  3.x 安装命令 pip install ecdsa cryptography
+
 nodejs 版本  v14.x 安装命令 npm install elliptic bn.js 
 
 
